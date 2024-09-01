@@ -1,1 +1,1 @@
-I had made an Amazon Project using HTML,CSS and Javascript.
+I had made a Amazon Project using HTML,CSS and Javascript.
